@@ -12,6 +12,7 @@
     "glob": "^7.0.3",
     "glob-stream": "^5.3.2",
     "gulp": "^3.9.1",
-    "gulp-debug": "^2.1.2"
+    "gulp-debug": "^2.1.2",
+    "vinyl-fs": "^2.4.3"
   }
 }
